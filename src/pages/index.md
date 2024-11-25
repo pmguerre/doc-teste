@@ -1,6 +1,6 @@
 # Docusaurus
 
-- [Documentos](/docs)
+- [Documentos](/docs/intro)
 - [Blog](/blog/)
 - [ADC](/nova/adc)
 
