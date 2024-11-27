@@ -10,3 +10,7 @@ A turma é FIXE!
 | ------ | ---- |
 | 1234   | António |
 | 13343 | Manel |
+
+- lista 1
+- lista 2
+- lista 3
